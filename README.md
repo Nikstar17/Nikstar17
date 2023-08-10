@@ -12,6 +12,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ## 🏞 Roadmap 🏞
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64d36c8baa497d7fa51ab122?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64d36c8baa497d7fa51ab122?variant=dark" alt="roadmap.sh"/></a>
 
 >  “Bitcoin is more than just a currency, it's a movement of trust in the digital age.” -  Arif Naseem 
