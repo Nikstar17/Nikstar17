@@ -1,9 +1,9 @@
 # <p style="text-align: center;">💗Welcome</p> <br> I'm Dominik aka. Nikstar17
 
 -   🇩🇪 From Germany - Brunswick
--   🧱 Certified carpenter
 -   💊 Addicted to finance and cryptocurrency
--   💻 Crosswise into IT
+-   💻 Computer science student
+-   🧱 Certified carpenter
 
 ## ⚙️ Tech Stack ⚙️
 
