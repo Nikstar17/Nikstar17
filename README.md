@@ -15,8 +15,4 @@
 ![Javascript](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 🏞 Roadmap 🏞
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64d36c8baa497d7fa51ab122?variant=dark&roadmaps=java%2Cjavascript%2Cfrontend%2Ccomputer-science)](https://roadmap.sh)
-
 > “Bitcoin is more than just a currency, it's a movement of trust in the digital age.” - Arif Naseem
