@@ -1,4 +1,4 @@
-# <p>💗Welcome</p> <br> I'm Dominik aka. Nikstar17
+# <p>Welcome</p> <br> I'm Dominik aka. Nikstar17
 
 -   🇩🇪 From Germany - Brunswick
 -   💻 Computer science student
