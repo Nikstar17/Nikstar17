@@ -1,4 +1,4 @@
-# 🚀 **I'm Dominik, aka Nikstar17** 🌟
+# **I'm Dominik**
 
 -   🇩🇪 From Germany - Brunswick
 -   💻 Computer science student
