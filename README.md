@@ -13,7 +13,7 @@
 
 ## About
 
-- Computer Science student
+- B.Sc. Computer Science
 - Certified carpenter with a builder mindset
 - Interested in practical, security-focused products
 
@@ -36,14 +36,6 @@
 Time tracking, project transparency, and billable reports in one clean interface.
 
 `SaaS` `Productivity` `Team Workflow`
-
-### VisionDashboard
-
-![Status](https://img.shields.io/badge/Status-Coming_Soon-F59E0B?style=flat-square)
-
-visiondashboard.de - A Web3 crypto portfolio tracker.
-
-`Web3` `DeFi` `Portfolio Analytics`
 
 ## Beyond Code
 
